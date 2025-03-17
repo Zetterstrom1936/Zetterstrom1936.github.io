@@ -6,9 +6,9 @@
 > 如果大家有发现存在敏感内容的群组、频道和机器人欢迎在issue中提交，会在第一时间处理。
 
 
-[GitHub项目直达](https://github.com/alexbei/telegram-groups)
+[A](NI)
 
-[项目的背景故事](https://www.tgqun.xyz/background-story)
+[B](JK)
 
 
 
@@ -43,4 +43,3 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alexbei/telegram-groups&type=Date)](https://star-history.com/#alexbei/telegram-groups&Date)
