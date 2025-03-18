@@ -1,7 +1,8 @@
 
 /* global footer component */
-
-body{ backgroundcolor:black; }
+body {
+	backgroundcolor:LightSlateGray;
+}
 body > footer {
     grid-column: 1 / 12;
     display: grid;
