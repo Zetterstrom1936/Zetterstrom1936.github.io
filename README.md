@@ -1,4 +1,41 @@
 # Zetterstrom1936.github.io
+
+**Languages:**
+
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](static/README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](static/README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](static/README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](static/README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](static/README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](static/README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](static/README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](static/README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](static/README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](static/README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](static/README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](static/README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](static/README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](static/README-bn.md)
+  
+
+## 各国免费接码平台推荐
+
+1. 免费国外接码平台：[https://textfree.us/](https://textfree.us/)（需下载应用）
+2. 免费国外接码平台：[https://www.textnow.com/](https://www.textnow.com/)（需下载APP）
+3. 免费国外接码平台：[https://receive-sms.com/](https://receive-sms.com/)（付费接收）
+4. 免费国外接码平台：[https://zh.mytrashmobile.com/](https://zh.mytrashmobile.com/)（号码少）
+5. 免费国外接码平台：[http://sms.sellaite.com/](http://sms.sellaite.com/)（爱沙尼亚号码）
+6. 免费国外接码平台：[https://receivefreesms.net/](https://receivefreesms.net/)（有广告）
+7. 免费国外接码平台：[https://smsreceivefree.com/](https://smsreceivefree.com/)（有广告）
+8. 免费国外接码平台：[http://receive-sms-online.info/](http://receive-sms-online.info/)（有广告）
+
+
+以上免费接码平台经过手工测试，部分有效。如果有更好的接码平台推荐，欢迎留言分享。
+
+[SMS-Activate：一款实用的短信验证码接收工具](https://github.com/rerxjvn/SMS)
+
 # 【热门推荐】5000+优质Telegram群组、频道和机器人
 
 > 声明：本项目的所有内容均来源于网络，仅供学习和技术研究使用。
