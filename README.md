@@ -44,7 +44,7 @@
 
 [A](https://Zetterstrom1936.github.io)
 
-[B](JK)
+[B](https://zetterstrom1936.github.io/BlackedRaw/GoodDayCafe.html)
 
 > 精心筛选，助您迅速找到最佳选择
 
