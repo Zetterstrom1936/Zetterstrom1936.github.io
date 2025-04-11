@@ -46,7 +46,7 @@
 
 [B](https://zetterstrom1936.github.io/BlackedRaw/GoodDayCafe.html)
 
-[C](https://zetterstrom1936.github.io/BlackedRaw/BlackedRaw/Z-tesa.html)
+[C](https://zetterstrom1936.github.io/BlackedRaw/Z-tesa.html)
 
 > 精心筛选，助您迅速找到最佳选择
 
